@@ -5,7 +5,6 @@ a Full Stack Web Developer
 ------------------------
 
 * ✉️  You can contact me at [dhruvpratapsinghmer@gmail.com](mailto:dhruvpratapsinghmer@gmail.com)
-* 🧠  I'm learning django/flask
 * 🤝  I'm open to collaborating on any frontend or backend projects
 
 ### Skills
